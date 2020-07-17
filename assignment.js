@@ -71,4 +71,3 @@ function tinyFriend(arrayOfFriendsName) {
   }
   return tiny;
 }
-console.log(tinyFriend(["jannat", "tuhin", "tusher"]));
